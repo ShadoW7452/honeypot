@@ -242,3 +242,4 @@ Case ID: #HC-1704038537123
 ---
 
 *NexCore Honeypot — Know your enemies before they know you.* 🍯
+# honeypot
