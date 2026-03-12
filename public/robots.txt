@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /admin
+Disallow: /wp-admin
+Disallow: /wp-login.php
+Disallow: /administrator
+Disallow: /backup
+Disallow: /database
+Disallow: /config
+Disallow: /phpmyadmin
+Disallow: /.env
+Disallow: /api/admin
+Disallow: /api/internal
+Disallow: /shell
+Disallow: /cmd
+Disallow: /.git
+Disallow: /server-status
+Disallow: /db-backup
+
+# Note: These paths are monitored and logged
